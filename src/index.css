@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(180deg, #000000 0%, #0A1A0F 50%, #000000 100%);
+  min-height: 100vh;
+}
